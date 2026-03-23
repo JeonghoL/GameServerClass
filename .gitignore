@@ -9,3 +9,9 @@ C11_minidump/C11_minidump/Release/
 Echo_Server/.vs/
 Echo_Server/Echo_Server/x64/
 Echo_Server/x64/
+Overlapped_Echo_Client/.vs/
+Overlapped_Echo_Client/Overlapped_Echo_Client/x64/
+Overlapped_Echo_Server/Overlapped_Echo_Server/x64/
+Overlapped_Echo_Server/.vs/
+Overlapped_Echo_Client/x64/
+Overlapped_Echo_Server/x64/

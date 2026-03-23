@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Echo_Server/Echo_Server.vcxproj" Id="a31a400b-9d6c-4882-92c7-85297ab3860c" />
+  <Project Path="Overlapped_Echo_Client/Overlapped_Echo_Client.vcxproj" Id="7bf75cf3-6004-4af5-b6f6-746e8c97e93a" />
 </Solution>
