@@ -6,3 +6,6 @@ Echo_Client/x64/
 Echo_Client/.vs/
 C11_minidump/C11_minidump/Debug/
 C11_minidump/C11_minidump/Release/
+Echo_Server/.vs/
+Echo_Server/Echo_Server/x64/
+Echo_Server/x64/
